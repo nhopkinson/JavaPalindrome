@@ -1,1 +1,1 @@
-# JavaPalindrome
+# JavaP
